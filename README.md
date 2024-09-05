@@ -21,3 +21,8 @@ EyeGuard is a groundbreaking computer vision application designed to protect you
 * **Enhanced comfort:** Encourages healthier screen habits and reduces discomfort associated with prolonged screen use.
 
 **Download EyeGuard today and experience the difference a healthier digital lifestyle can make.**
+
+Directons for Dowloads:
+
+1. Click on Zip File
+2. Download Raw File
