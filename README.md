@@ -31,7 +31,7 @@ Patch Fix #1:
 
 Directions for Downloads (Mac OS):
 
-1. Click on Zip File
+1. Click and Download Zip File from Repository
 3. Open File from Downloads
 4. Click the "Open EyeGuard" File
 5. Approve to Open the Application if pop-up appears (Settings -> Privacy & Security  -> (Scroll to Bottom to Security) Open Anyways for "Open EyeGuard".
