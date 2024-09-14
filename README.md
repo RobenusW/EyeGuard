@@ -24,12 +24,14 @@ EyeGuard is a groundbreaking computer vision application designed to protect you
 * **Personalized protection:** Customizable settings allow you to tailor EyeGuard to your specific needs and preferences.
 * **Enhanced comfort:** Encourages healthier screen habits and reduces discomfort associated with prolonged screen use.
 
+Patch Fix #1:
+9/14: Notification System Crashing Often is now fixed! Redownload for the most recent version!
+
 **Download EyeGuard today and experience the difference a healthier digital lifestyle can make.**
 
-Directons for Downloads (Mac OS):
+Directions for Downloads (Mac OS):
 
 1. Click on Zip File
-2. Download Raw File
 3. Open File from Downloads
 4. Click the "Open EyeGuard" File
 5. Approve to Open the Application if pop-up appears (Settings -> Privacy & Security  -> (Scroll to Bottom to Security) Open Anyways for "Open EyeGuard".
