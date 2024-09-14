@@ -37,3 +37,7 @@ Directions for Downloads (Mac OS):
 5. Approve to Open the Application if pop-up appears (Settings -> Privacy & Security  -> (Scroll to Bottom to Security) Open Anyways for "Open EyeGuard".
 6. Click "Open EyeGuard" File Again.
 7. Enjoy EyeGuard!
+
+Note: These instructions may seem impractical and off-putting for future larger amount of users. The author and developer are in the process of enrolling in the Apple Developer Program so that future users may download and use EyeGuard without reaching into their settings first. 
+
+The author and developer appreciates your patience until that point.
