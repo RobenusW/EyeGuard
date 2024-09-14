@@ -26,12 +26,12 @@ EyeGuard is a groundbreaking computer vision application designed to protect you
 
 **Download EyeGuard today and experience the difference a healthier digital lifestyle can make.**
 
-Directons for Downloads:
+Directons for Downloads (MAC OS ONLY):
 
 1. Click on Zip File
 2. Download Raw File
 3. Open File from Downloads
-4. Click the "OpenScript" File
-5. Approve to Open the Application
-6. Apple may say "'ComputerViewer' is damaged and can’t be opened. You should move it to the Trash.", so go to your Downloads directory from the terminal (if you just opened the terminal, type "cd Downloads" to change the directory to the downloads folder"), and type "xattr -c EyeGuard/EyeGuard.app/Contents/MacOS/ComputerViewer". This is a system call to your device telling it that the program is not damaged.
-7. Click the "OpenScript" File again and you should have be able to use EyeGuard!
+4. Click the "Open EyeGuard" File
+5. Approve to Open the Application if pop-up appears (Settings -> Privacy & Security  -> (Scroll to Bottom to Security) Open Anyways for "Open EyeGuard".
+6. Click "Open EyeGuard" File Again.
+7. Enjoy EyeGuard!
