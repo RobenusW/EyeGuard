@@ -26,7 +26,7 @@ EyeGuard is a groundbreaking computer vision application designed to protect you
 
 **Download EyeGuard today and experience the difference a healthier digital lifestyle can make.**
 
-Directons for Downloads (MAC OS ONLY):
+Directons for Downloads (Mac OS):
 
 1. Click on Zip File
 2. Download Raw File
