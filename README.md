@@ -45,10 +45,13 @@ Directions for Downloads (Mac OS):
 3. Open File from Downloads
 4. Click the "Open EyeGuard" File
 5. Approve to Open the Application
-6. Apple may say "'ComputerViewer' is damaged and can’t be opened. You should move it to the Trash.", so:
+6. Your Device may say "'ComputerViewer' is damaged and can’t be opened. You should move it to the Trash.", to fix this:
+<br/>
    a. Go to your Downloads directory from the terminal (type "cd Downloads" to change the directory to the downloads folder")
+<br/>
    b. Type "xattr -rc EyeGuard/EyeGuard.app/Contents/MacOS/ComputerViewer" (this is a system call to your device telling it that the program is not damaged)
-7. Click the "Open EyeGuard" File again and enjoy EyeGuard.
+<br/>
+8. Click the "Open EyeGuard" File again and enjoy EyeGuard.
 
 Note: These instructions may seem impractical and off-putting for future larger amount of users. The author and developer are in the process of enrolling in the Apple Developer Program so that future users may download and use EyeGuard without reaching into their settings first. 
 
