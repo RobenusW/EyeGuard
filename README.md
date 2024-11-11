@@ -29,6 +29,15 @@ Patch Fix #1:
 
 **Download EyeGuard today and experience the difference a healthier digital lifestyle can make.**
 
+<img width="1280" alt="Screenshot 2024-11-11 at 1 24 29 PM" src="https://github.com/user-attachments/assets/b25b9d77-0e28-468c-bdcd-3bb7629d5861">
+<img width="1280" alt="Screenshot 2024-11-11 at 1 24 33 PM" src="https://github.com/user-attachments/assets/f780e4e0-eff3-44ff-b349-7c9980b79251">
+<img width="1280" alt="Screenshot 2024-11-11 at 1 24 43 PM" src="https://github.com/user-attachments/assets/e87552b4-aa9b-4e34-bea5-7d546ba8c00c">
+
+
+
+
+
+
 Directions for Downloads (Mac OS):
 
 1. Click on EyeGuard.zip file from the files above
