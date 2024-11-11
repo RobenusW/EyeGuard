@@ -50,3 +50,8 @@ Directions for Downloads (Mac OS):
 Note: These instructions may seem impractical and off-putting for future larger amount of users. The author and developer are in the process of enrolling in the Apple Developer Program so that future users may download and use EyeGuard without reaching into their settings first. 
 
 The author and developer appreciates your patience until that point.
+
+Notes:
+
+If you also have another IOS device with a camera, this application may inadvertently use that device's camera. If this happens, press disconnect, temporarily turn off Bluetooth on that device, and click on the application again.  
+
