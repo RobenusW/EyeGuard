@@ -52,11 +52,11 @@ Directions for Downloads (Mac OS):
    b. Type "xattr -rc EyeGuard/EyeGuard.app/Contents/MacOS/ComputerViewer" (this is a system call to your device telling it that the program is not damaged)
 8. Click the "Open EyeGuard" File again and enjoy EyeGuard.
 
-Note: 
+Note2: 
 
 1. These instructions may seem impractical and off-putting for future larger amount of users. The author and developer are in the process of enrolling in the Apple Developer Program so that future users may download and use EyeGuard without reaching into their settings first. 
 
-The author and developer appreciates your patience until that point.
+   The author and developer appreciates your patience until that point.
 
 2. If you also have another IOS device with a camera, this application may inadvertently use that device's camera. If this happens, press disconnect, temporarily turn off Bluetooth on that device, and click on the application again.  
 
