@@ -35,6 +35,7 @@ Application UI/Demo:
 <img width="300" alt="Screenshot 2024-11-11 at 1 24 33 PM" src="https://github.com/user-attachments/assets/f780e4e0-eff3-44ff-b349-7c9980b79251">
 
 Settings Interface
+<br/>
 <img width="300" alt="Screenshot 2024-11-11 at 1 24 43 PM" src="https://github.com/user-attachments/assets/e87552b4-aa9b-4e34-bea5-7d546ba8c00c">
 
 Directions for Downloads (Mac OS):
